@@ -8,7 +8,8 @@ This repository,  contains three main projects focused on Machine Learning, Natu
 ---
 
 ## Part 1: Machine Learning Challenge
-Location: `Part1_RetailSales`
+Location: [Part1 Folder](./Part1/)
+
 
 Using a multi-store retail dataset (daily sales across 10 stores & 5 categories, Jan–Dec 2023), this part covers:
 
@@ -32,7 +33,8 @@ Using a multi-store retail dataset (daily sales across 10 stores & 5 categories,
 ---
 
 ## Part 2: LLM & Vector Database Challenge
-Location: `Part2_ReviewAnalytics`
+Location: [Part2 Folder](./Part2/)
+
 
 Working with electronic product reviews:
 
@@ -56,12 +58,12 @@ Working with electronic product reviews:
 ## Part 3: MLOps Architecture Design
 Location: [Part3 Folder](./Part3/)
 
-Design a production-grade system for three AI models:
+Design of a production-grade system for three AI models:
 
 1. **MLOps Architecture**
-   - Define end-to-end deployment, monitoring & maintenance
-   - Include scalability, reliability, and security considerations
-   - Provide architecture diagrams
+   - Defined end-to-end deployment, monitoring & maintenance
+   - Includes scalability, reliability, and security considerations
+   - An architecture diagram
 
 2. **Data & Model Versioning**
    - Strategy for versioning datasets and model artifacts
