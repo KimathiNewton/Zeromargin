@@ -7,16 +7,6 @@ This repository,  contains three main projects focused on Machine Learning, Natu
 
 ---
 
-### Table of Contents
-1. [Part 1: Machine Learning Challenge](#part-1-machine-learning-challenge)
-2. [Part 2: LLM & Vector Database Challenge](#part-2-llm--vector-database-challenge)
-3. [Part 3: MLOps Architecture Design](#part-3-mlops-architecture-design)
-4. [Getting Started](#getting-started)
-5. [Contributing](#contributing)
-6. [License](#license)
-
----
-
 ## Part 1: Machine Learning Challenge
 Location: `Part1_RetailSales`
 
@@ -64,7 +54,7 @@ Working with electronic product reviews:
 ---
 
 ## Part 3: MLOps Architecture Design
-Location: `Part3_MLOpsDesign`
+Location: [Part3 Folder](./Part3/)
 
 Design a production-grade system for three AI models:
 
@@ -106,15 +96,5 @@ Design a production-grade system for three AI models:
    ```
 4. **Follow the README in each folder** for detailed instructions.
 
----
 
-## Contributing
-
-Contributions are welcome! Please submit issues or pull requests with clear descriptions of changes and tests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
