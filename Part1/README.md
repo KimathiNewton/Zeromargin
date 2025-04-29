@@ -15,15 +15,15 @@ Part1/
 
 ### `dataset/retail_sales_data.csv`
 - Contains daily sales figures for multiple stores and product categories.
-- Typical columns: `date`, `store_id`, `product_id`, `units_sold`, `revenue`, etc.
+- Typical columns: `date`, `store_id`, `product_id`, `units_sold`, `revenue`
 
 ### `Case_Assessment.ipynb`
 - Interactive Jupyter notebook guiding you through:
   1. **Data Loading** and **Preprocessing**
-  2. **Exploratory Data Analysis** (trend, seasonality, outliers)
-  3. **Feature Engineering** (calendar features, lag variables, rolling statistics)
-  4. **Model Development** (e.g., ARIMA, Prophet, Random Forest)
-  5. **Evaluation** (MAPE, RMSE) and **Business Recommendations**
+  2. **Exploratory Data Analysis** 
+  3. **Feature Engineering** 
+  4. **Model Development** 
+  5. **Evaluation**
 
 ### `ML_Challenge.pdf`
 - Detailed description of the challenge objectives, deliverables, and timeline:
@@ -67,14 +67,6 @@ Part1/
    - Review the **Evaluation** section for performance metrics and decision thresholds.
 3. Refer to **`ML_Challenge.pdf`** for any clarifications on objectives or evaluation criteria.
 
-## Deliverables
-
-- Completed **`Case_Assessment.ipynb`** with code and commentary.
-- Forecast results exported (e.g. `.csv` of predicted sales).
-- A short **report** summarizing:
-  - Data insights
-  - Model choices and performance
-  - Business recommendations based on forecasts
 
 
 
